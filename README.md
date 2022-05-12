@@ -25,4 +25,5 @@ Is an application to access weather data from the API: https://openweathermap.or
 
 💻 Result:
 
+Veja a aplicação [AQUI](https://weather-app-lovat-rho.vercel.app/)
 ![Preview page GIF](./src/assets/preview.png)
